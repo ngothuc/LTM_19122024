@@ -1,0 +1,7 @@
+MessageType:
+    - LOGIN loginName
+    - MESSAGE Message
+Các trường trong mỗi message:
+    - HEADER: LOGIN hoặc MESSAGE
+    - BODY: nội dung message
+    - HEADER và BODY ngăn cách nhau bởi dấu cách
